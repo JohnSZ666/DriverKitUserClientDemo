@@ -567,7 +567,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = com.slqj.driverKitTest001.driver;
 				PRODUCT_NAME = "$(inherited)";
 				PROVISIONING_PROFILE_SPECIFIER = "";
-				"PROVISIONING_PROFILE_SPECIFIER[sdk=driverkit*]" = DriverKitTest001NullDriverMacPPDev20240311;
+				"PROVISIONING_PROFILE_SPECIFIER[sdk=driverkit*]" = DriverKitTest001NullDriverMacPPDev20240318_2;
 				RUN_CLANG_STATIC_ANALYZER = YES;
 				SDKROOT = driverkit;
 				SKIP_INSTALL = YES;
@@ -591,7 +591,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = com.slqj.driverKitTest001.driver;
 				PRODUCT_NAME = "$(inherited)";
 				PROVISIONING_PROFILE_SPECIFIER = "";
-				"PROVISIONING_PROFILE_SPECIFIER[sdk=driverkit*]" = DriverKitTest001NullDriverMacPPDev20240311;
+				"PROVISIONING_PROFILE_SPECIFIER[sdk=driverkit*]" = DriverKitTest001NullDriverMacPPDev20240318_2;
 				RUN_CLANG_STATIC_ANALYZER = YES;
 				SDKROOT = driverkit;
 				SKIP_INSTALL = YES;
